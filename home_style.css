@@ -1,0 +1,54 @@
+@CHARSET "ISO-8859-1";
+
+#container {
+	margin-left: 70px;
+	margin-right: 70px;	
+}
+
+h1 {
+	background-color: #B71C1C;
+	color: white;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Cedarville Cursive', cursive;
+}
+ 
+ div#cent_pic {
+ 	text-align: center;
+ }
+ 
+ #cent_par {
+ 	display: block;
+ }
+ 
+img {
+	border-radius: 100%;
+	margin: auto;
+}
+
+p.jos, p.fab {
+	display: inline;
+	font-family: 'Cedarville Cursive', cursive;
+}
+
+p.jos {
+	position: relative;
+	right: 70px;
+}
+
+p.fab{
+	position: relative;
+	left: 70px;
+}
+
+.jos {
+	margin-left: auto;
+	margin-right: 30px;
+}
+
+.fab {
+	margin-left: 30px;
+	margin-right:auto;
+} 
